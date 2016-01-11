@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="svalinn.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3817">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop3819" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3821" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3817"
+       id="linearGradient3823"
+       x1="268.14349"
+       y1="454.35187"
+       x2="313.70435"
+       y2="454.35187"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3817"
+       id="linearGradient3831"
+       x1="268.54636"
+       y1="454.35187"
+       x2="313.30148"
+       y2="454.35187"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="282.56828"
+     inkscape:cy="596.4727"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="776"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:end="2.3750103"
+       sodipodi:start="0.77236623"
+       transform="matrix(2.8057258,0,0,2.8057258,-518.6334,-813.73854)"
+       d="m 306.84165,469.86004 a 22.223356,22.223356 0 0 1 -31.92489,-0.0923 l 16.00716,-15.41584 z"
+       sodipodi:ry="22.223356"
+       sodipodi:rx="22.223356"
+       sodipodi:cy="454.35187"
+       sodipodi:cx="290.92392"
+       id="path3794"
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.25257686000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ab0404;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25257686000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3792"
+       sodipodi:cx="290.92392"
+       sodipodi:cy="454.35187"
+       sodipodi:rx="22.223356"
+       sodipodi:ry="22.223356"
+       d="m 306.90204,438.90593 a 22.223356,22.223356 0 0 1 -0.0486,30.94198 l -15.92954,-15.49604 z"
+       transform="matrix(2.8057258,0,0,2.8057258,-518.6334,-813.73854)"
+       sodipodi:start="5.5147211"
+       sodipodi:end="7.05479"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:end="5.5119256"
+       sodipodi:start="3.9272477"
+       transform="matrix(2.8057258,0,0,2.8057258,-518.6334,-813.73854)"
+       d="m 275.21367,438.63355 a 22.223356,22.223356 0 0 1 31.64513,0.22777 l -15.93488,15.49055 z"
+       sodipodi:ry="22.223356"
+       sodipodi:rx="22.223356"
+       sodipodi:cy="454.35187"
+       sodipodi:cx="290.92392"
+       id="path3790"
+       style="opacity:1;fill:#47ab47;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25257686000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#2a5baa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25257686000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3788"
+       sodipodi:cx="290.92392"
+       sodipodi:cy="454.35187"
+       sodipodi:rx="22.223356"
+       sodipodi:ry="22.223356"
+       d="m 275.03412,469.88866 a 22.223356,22.223356 0 0 1 0.19048,-31.26603 l 15.69932,15.72924 z"
+       transform="matrix(2.8057258,0,0,2.8057258,-518.6334,-813.73854)"
+       sodipodi:start="2.3674268"
+       sodipodi:end="3.9279429"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0,-2.2866006,2.2866006,0,-741.30189,1126.2751)"
+       d="m 313.14728,454.35187 a 22.223356,22.223356 0 1 1 -44.44672,0 22.223356,22.223356 0 1 1 44.44672,0 z"
+       sodipodi:ry="22.223356"
+       sodipodi:rx="22.223356"
+       sodipodi:cy="454.35187"
+       sodipodi:cx="290.92392"
+       id="path3786"
+       style="fill:url(#linearGradient3831);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30839714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#47ab47;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.38879943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3016"
+       sodipodi:cx="290.92392"
+       sodipodi:cy="454.35187"
+       sodipodi:rx="22.223356"
+       sodipodi:ry="22.223356"
+       d="m 306.93868,469.75982 a 22.223356,22.223356 0 0 1 -32.00944,0.0208 l 15.99468,-15.4288 z"
+       transform="matrix(1.8226915,0,0,1.8226915,-232.6452,-367.09504)"
+       sodipodi:start="0.76608936"
+       sodipodi:end="2.3742008"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.8226915,0,0,1.8226915,-232.6452,-367.09504)"
+       d="m 274.92906,469.78047 a 22.223356,22.223356 0 1 1 31.9229,0.069 l -15.92804,-15.49758 z"
+       sodipodi:ry="22.223356"
+       sodipodi:rx="22.223356"
+       sodipodi:cy="454.35187"
+       sodipodi:cx="290.92392"
+       id="path3014"
+       style="fill:#aa0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.38879943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       sodipodi:start="2.3742128"
+       sodipodi:end="7.0548867"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 266.40287,478.68416 a 34.544785,34.544785 0 1 1 49.19771,-0.15783 l -24.67666,-24.17446 z"
+       sodipodi:ry="34.544785"
+       sodipodi:rx="34.544785"
+       sodipodi:cy="454.35187"
+       sodipodi:cx="290.92392"
+       id="path2987"
+       style="fill:#275dad;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.87603116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       sodipodi:start="2.3600581"
+       sodipodi:end="7.0583038"
+       transform="matrix(0.80894544,0,0,0.80894544,62.277808,93.502405)"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient3823);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.11414504;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="290.92392"
+       sodipodi:cy="454.35187"
+       sodipodi:rx="22.223356"
+       sodipodi:ry="22.223356"
+       d="m 313.14728,454.35187 a 22.223356,22.223356 0 1 1 -44.44672,0 22.223356,22.223356 0 1 1 44.44672,0 z"
+       transform="matrix(0,-0.6360585,0.6360585,0,8.6250145,646.09291)"
+       inkscape:export-filename="/home/wilsonp/svalinn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
